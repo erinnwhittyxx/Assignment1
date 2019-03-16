@@ -1,0 +1,23 @@
+.ui.container{
+    background-image: url(images/background.jpg);
+
+    min-height:calc(100% - 0px);
+    min-width:calc(100% - 0px);
+    background-size: cover;
+    background-attachment:fixed;
+    color: white;
+    align-content: center;
+    font-family: monospace;
+}
+
+.header{
+    text-align: center;
+    font-family: monospace;
+}
+
+.bgcolumn{
+    background: rgba(0,0,0,0.6);
+    background-blend-mode: opacity: 50%;
+    text-align: center;
+}
+
